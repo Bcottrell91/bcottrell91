@@ -1,10 +1,17 @@
-<h1>Hi, I'm Bryce! <br/><a href="https://github.com/bcottrell1">Programmer</a>, <a href="[https://www.linkedin.com/in/brycecottrell/)">Cybersecurity Projects</a>
+<h1>Hi, I'm Bryce! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Active Directory Home Lab] (AlgoExpert)</b>
  
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab
+
+<h2> Certifications</h2>
+
+- [CompTIA Security+]
+- [CISSP]
+- [eJPT]
+  
 
 - <b>Python</b>
   
